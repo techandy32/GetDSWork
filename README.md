@@ -14,7 +14,7 @@ DeepSpeed Examples from microsoft
 HPCA'24 make deepspeed work on Samsung SmartSSD
 
 # 0425
-跟著DeepSpeedExamples裡HelloDeepSpeed
+跟著DeepSpeed Examples裡HelloDeepSpeed
 
 
 # Aware
