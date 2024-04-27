@@ -11,7 +11,8 @@ DeepSpeed Examples from microsoft
 
 [DeepSpeed系列教程1](https://zhuanlan.zhihu.com/p/671026708)
 
-# 0427
+# daily note
+## 0427
 
 > deepspeed train_bert_ds.py --checkpoint_dir . --num_layers 24 --h_dim 4096 --num_iterations 1000
 
@@ -25,7 +26,7 @@ AttributeError: 'str' object has no attribute 'stdout'
 
 
 
-# 0425
+## 0425
 跟著DeepSpeed Examples裡的HelloDeepSpeed
 
 # related work
