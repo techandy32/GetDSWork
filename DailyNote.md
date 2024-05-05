@@ -27,6 +27,10 @@ model, _, _, _ = deepspeed.initialize(model=model,
 [Stage3 - 参数分割](https://www.zhangzhenhu.com/deepspeed/stage3-%E5%8F%82%E6%95%B0%E5%88%86%E5%89%B2.html)
 ?
 
+在`engine.py`中有一個`deepespeed_io()`的function，他呼叫了`DeepSpeedDataLoader()`
+看看這邊做啥
+
+
 # 0427
 
 > deepspeed train_bert_ds.py --checkpoint_dir . --num_layers 24 --h_dim 4096 --num_iterations 1000
