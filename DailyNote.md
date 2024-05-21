@@ -6,6 +6,7 @@
 
 # 0520
 > /deepspeed/runtime/swap_tensor/
+
 這部份負責將Tensor從NVMe中讀取或寫入的操作
 
 # 0505
