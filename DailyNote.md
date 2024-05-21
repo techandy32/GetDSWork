@@ -1,7 +1,12 @@
 # link
+- [0520](./DailyNote.md#0520)
 - [0505](./DailyNote.md#0505)
 - [0427](./DailyNote.md#0427)
 - [0425](./DailyNote.md#0425)
+
+# 0520
+> /deepspeed/runtime/swap_tensor/
+這部份負責將Tensor從NVMe中讀取或寫入的操作
 
 # 0505
 
